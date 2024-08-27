@@ -1,6 +1,6 @@
-<img src='https://media.licdn.com/dms/image/D4D16AQEV7crIOmlAwg/profile-displaybackgroundimage-shrink_350_1400/0/1702317529941?e=1714608000&v=beta&t=DysScfiJpUp4IZDFddhMBhVgKCgkQ6LP8ksBnBDGaSk' alt='cover image' />
+<img src='https://c4.wallpaperflare.com/wallpaper/274/323/713/code-php-html-ilya-pavlov-wallpaper-preview.jpg' alt='cover image' />
 
-<h3 align='center'> I'm Parichay Dutta Biswas, a passionate Frontend Developer 💻 with a strong foundation in Java, HTML, CSS, JavaScript, React, and Node.js.From crafting seamless front-end interfaces to building robust back-end systems, I thrive on transforming complex challenges into elegant code.</h3> 
+<h3 align='center'> I'm Parichay Dutta Biswas, a passionate Web Developer 💻 with a strong foundation in Java, HTML, CSS, JavaScript, React, and Node.js. My expertise lies in creating full-stack solutions, from designing intuitive front-end interfaces with React.js to developing robust back-end systems with Node.js. With experience in various projects, I am also a java programmer with problem solving skills. I am passionate about delivering high-quality, scalable solutions. I am eager to contribute my skills to innovative teams and build impactful digital experiences.</h3> 
 
 ## 💫 About Me:
 
