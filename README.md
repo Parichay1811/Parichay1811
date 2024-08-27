@@ -10,7 +10,14 @@ I’m currently working on Developing innovative web applications and projects t
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/parichay-dutta-biswas-0a40191b5/](https://www.linkedin.com/in/parichay-dutta-biswas-0a40191b5/)) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parichay-dutta-biswas-0a40191b5" height="30" width="40" /></a>
+<a href="https://fb.com/parichay.duttabiswas.1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="parichay.duttabiswas.1811" height="30" width="40" /></a>
+<a href="https://instagram.com/parichayduttabiswasofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parichayduttabiswasofficial" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/parichay dutta biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="parichay dutta biswas" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/parichay1811" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parichay1811" height="30" width="40" /></a>
+</p>
 
 # 💻 Tech Stack:
 
