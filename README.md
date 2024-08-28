@@ -1,4 +1,4 @@
-<img src='img\avatar.jpg' alt='cover image' width="140" height="150" />
+<img src='img\Avataar.jpg' alt='cover image' width="100" height="100" />
 
 <h3 align='center'> I'm Parichay Dutta Biswas, a passionate Web Developer 💻 with a strong foundation in Java, HTML, CSS, JavaScript, React, and Node.js. My expertise lies in creating full-stack solutions, from designing intuitive front-end interfaces with React.js to developing robust back-end systems with Node.js🚀🚀. With experience in various projects 🧑‍💻, I am also a java programmer with problem solving skills. I am passionate about delivering high-quality, scalable solutions. I am eager to contribute my skills to innovative teams and build impactful digital experiences.</h3> 
 
