@@ -4,7 +4,8 @@
 
 ## 💫 About Me:
 
-<img align='right' src='img\UI Developer.gif' alt='coding gif' width='450px'/>
+<!-- <img align='right' src='img\UI Developer.gif' alt='coding gif' width='450px'/> -->
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/zhYSVCirREeIZtONCI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/thebuzzingstudio-code-tbs-thebuzzing-zhYSVCirREeIZtONCI">via GIPHY</a></p>
 
 I’m currently working on Developing innovative web applications and projects that push the boundaries of technology and user experience.<br><br>🌱 I’m currently learning Node js, Express js, MongoDB<br><br>👨‍💻 All of my projects are available at [Portfolio](https://parichay1811.github.io/MyPortfolio/)<br><br>💬 Ask me about React, Javascript<br><br>📫 How to reach me Slide into my DMs on LinkedIn here or shoot me an email at parichay.rick18@gmail.com. Let's connect and chat over virtual coffee or tea (or whatever beverage tickles your fancy)!<br><br>📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nvp5aK7DcN3vomekZXSsf7rOnrA77Ber/view?usp=drive_link)<br><br>⚡ Fun fact I'm not glued to my screen coding away, you can find me singing, song Producing, playing musical instruments, cooking, travelling and also riding. 
 
