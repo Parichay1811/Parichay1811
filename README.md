@@ -25,7 +25,7 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.leetcode.com/parichay1811"><img src="https://skillicons.dev/icons?i=leetcode&theme=dark" width="48"/></a>
+<a href="https://www.leetcode.com/parichay1811"><img src="[https://skillicons.dev/icons?i=leetcode&theme=dark](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg)" width="48"/></a>
 <a href="https://www.hackerrank.com/parichay_rick18"><img src="https://skillicons.dev/icons?i=hackerrank&theme=dark" width="48"/></a>
 <a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
 <a href="https://fb.com/parichay.duttabiswas.1811"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" width="48"/></a>
