@@ -1,6 +1,6 @@
 <!-- Avatar -->
 <p align="center">
-  <img src="Parichay1811\img\avatar.png" alt="Parichay Avatar" width="150" style="border-radius:50%; border: 3px solid #00bfff;" />
+  <img src="img/avatar.png" alt="Parichay Avatar" width="150" style="border-radius:50%; border: 3px solid #00bfff;" />
 </p>
 
 <!-- Typing Animation -->
