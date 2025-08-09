@@ -11,7 +11,7 @@
 ---
 
 ## 💫 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
 
 - 🚀 **Full Stack Developer** (Java, HTML, CSS, JS, React, Node.js, MongoDB)  
 - 💡 Passionate about building **scalable & high-performance** applications  
