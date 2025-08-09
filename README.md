@@ -25,25 +25,26 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.leetcode.com/parichay1811">
+<a href="https://www.leetcode.com/parichay1811" style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48"/>
 </a>
-<a href="https://www.hackerrank.com/parichay_rick18">
+<a href="https://www.hackerrank.com/parichay_rick18" style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48"/>
 </a>
-<a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5">
+<a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5" style="margin: 0 10px;">
   <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
-<a href="https://fb.com/parichay.duttabiswas.1811">
+<a href="https://fb.com/parichay.duttabiswas.1811" style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48"/>
 </a>
-<a href="https://instagram.com/parichayduttabiswasofficial">
+<a href="https://instagram.com/parichayduttabiswasofficial" style="margin: 0 10px;">
   <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
 </a>
-<a href="https://www.youtube.com/@Parichay1811">
+<a href="https://www.youtube.com/@Parichay1811" style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="48"/>
 </a>
 </p>
+
 
 ---
 
