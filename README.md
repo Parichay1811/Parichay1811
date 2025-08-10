@@ -26,7 +26,7 @@
 ## 🌐 Connect With Me
 <p align="center">
 <a href="https://www.leetcode.com/parichay1811" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="48"/>
+  <img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000)" width="48"/>
 </a>
 <a href="https://www.hackerrank.com/parichay_rick18" style="margin: 0 10px;">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48"/>
