@@ -25,7 +25,7 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
+<p align="left">
   <a href="https://www.leetcode.com/parichay1811" style="margin: 0 10px;" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" width="48" alt="LeetCode" />
   </a>
