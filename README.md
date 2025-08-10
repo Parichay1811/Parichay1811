@@ -25,26 +25,27 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="left" style="display: flex; gap: 30px; align-items: center;">
-  <a href="https://www.leetcode.com/parichay1811" target="_blank" rel="noopener noreferrer">
+<p align="left">
+  <a href="https://www.leetcode.com/parichay1811" target="_blank" rel="noopener noreferrer" style="margin-right: 30px;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=512" alt="LeetCode" width="48" height="48" />
   </a>
-  <a href="https://www.hackerrank.com/parichay_rick18" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerrank.com/parichay_rick18" target="_blank" rel="noopener noreferrer" style="margin-right: 30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" width="48" height="48" />
   </a>
-  <a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5" target="_blank" rel="noopener noreferrer" style="margin-right: 30px;">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" />
   </a>
-  <a href="https://fb.com/parichay.duttabiswas.1811" target="_blank" rel="noopener noreferrer">
+  <a href="https://fb.com/parichay.duttabiswas.1811" target="_blank" rel="noopener noreferrer" style="margin-right: 30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="48" height="48" />
   </a>
-  <a href="https://instagram.com/parichayduttabiswasofficial" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/parichayduttabiswasofficial" target="_blank" rel="noopener noreferrer" style="margin-right: 30px;">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
   </a>
   <a href="https://www.youtube.com/@Parichay1811" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="48" height="48" />
   </a>
 </p>
+
 
 
 
