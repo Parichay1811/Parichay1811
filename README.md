@@ -13,10 +13,11 @@
 ## 💫 About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="300"/>
 
-- 🚀 **Full Stack Developer** (Java, HTML, CSS, JS, React, Node.js, MongoDB)  
+- 🚀 **Full Stack Developer** (Java, HTML, CSS, JS, React, Node.js, MongoDB)
+- 📃 Download CV: [**Click Here**](https://www.dropbox.com/scl/fi/6sooig9ls72phgz1p6a7l/Parichay-Dutta-Biswas.pdf?rlkey=v5w6t5qe0unjxdmydrlbebjxg&st=96u7yhja&dl=0)
 - 💡 Passionate about building **scalable & high-performance** applications  
 - 🌱 Currently learning **Artificial Intelligence**  
-- 👨‍💻 Portfolio 👉 [**Click Here**](https://portfolio-eight-smoky-73.vercel.app/)  
+- 👨‍💻 Portfolio 👉 [**Click Here**](https://my-portfolio-v37z.vercel.app/)  
 - 💬 Ask me about **React, JavaScript, Java**  
 - 📫 **Email:** `parichay.rick18@gmail.com` | **[LinkedIn](https://linkedin.com/in/parichay-dutta-biswas-0a40191b5)**  
 - ⚡ Fun fact: When I’m not coding, I’m **singing 🎤, making music 🎶, riding 🏍, or traveling ✈**  
@@ -25,25 +26,26 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.leetcode.com/parichay1811" style="margin: 0 10px;">
-  <img src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000)" width="48"/>
-</a>
-<a href="https://www.hackerrank.com/parichay_rick18" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48"/>
-</a>
-<a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5" style="margin: 0 10px;">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
-</a>
-<a href="https://fb.com/parichay.duttabiswas.1811" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48"/>
-</a>
-<a href="https://instagram.com/parichayduttabiswasofficial" style="margin: 0 10px;">
-  <img src="https://skillicons.dev/icons?i=instagram" width="48"/>
-</a>
-<a href="https://www.youtube.com/@Parichay1811" style="margin: 0 10px;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="48"/>
-</a>
-</p>
+  <a href="https://www.leetcode.com/parichay1811" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" width="48" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/parichay_rick18" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="48" alt="HackerRank" />
+  </a>
+  <a href="https://linkedin.com/in/parichay-dutta-biswas-0a40191b5" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" />
+  </a>
+  <a href="https://fb.com/parichay.duttabiswas.1811" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="48" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/parichayduttabiswasofficial" style="margin: 0 10px;">
+    <img src="https://skillicons.dev/icons?i=instagram" width="48" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@Parichay1811" style="margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="48" alt="YouTube" />
+  </a>
+</p> 
+
 
 
 ---
