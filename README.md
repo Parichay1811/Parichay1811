@@ -16,7 +16,7 @@
 - 🚀 **Full Stack Developer** (Java, HTML, CSS, JS, React, Node.js, MongoDB)
 - 📃 Download CV: [**Click Here**](https://www.dropbox.com/scl/fi/6sooig9ls72phgz1p6a7l/Parichay-Dutta-Biswas.pdf?rlkey=v5w6t5qe0unjxdmydrlbebjxg&st=96u7yhja&dl=0)
 - 💡 Passionate about building **scalable & high-performance** applications  
-- 🌱 Currently learning **Artificial Intelligence**  
+- 🌱 Currently learning **Typescript**  
 - 👨‍💻 Portfolio 👉 [**Click Here**](https://my-portfolio-v37z.vercel.app/)  
 - 💬 Ask me about **React, JavaScript, Java**  
 - 📫 **Email:** `parichay.rick18@gmail.com` | **[LinkedIn](https://linkedin.com/in/parichay-dutta-biswas-0a40191b5)**  
